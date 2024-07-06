@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @livalle
-- 👀 I’m interested in Software engineer and fullstack development
-- 🌱 I’m currently learning  backend technologies
+- 👀 I’m a Software engineer Student
 - 📫 How to reach me : https://www.linkedin.com/in/lidia-vale/
 <!---
 livalle/livalle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
